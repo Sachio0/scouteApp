@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{BE6DCF4E-E4A8-4CC3-BF73-23CD2A5992C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2ndTry", "2ndTry\2ndTry.csproj", "{C18BC04D-98BB-4A36-9750-E5DC9EFADC7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6DCF4E-E4A8-4CC3-BF73-23CD2A5992C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6DCF4E-E4A8-4CC3-BF73-23CD2A5992C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6DCF4E-E4A8-4CC3-BF73-23CD2A5992C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6DCF4E-E4A8-4CC3-BF73-23CD2A5992C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18BC04D-98BB-4A36-9750-E5DC9EFADC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18BC04D-98BB-4A36-9750-E5DC9EFADC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18BC04D-98BB-4A36-9750-E5DC9EFADC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18BC04D-98BB-4A36-9750-E5DC9EFADC7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695F75A9-D5EC-4BD9-924C-1B8EF45F023E}
+	EndGlobalSection
+EndGlobal
